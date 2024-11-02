@@ -25,4 +25,4 @@ theme-color: #ffffff
 
 
 ### Manga
-  - [Series](url)
+  - [پھانسا](olgami)
