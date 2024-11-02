@@ -25,4 +25,4 @@ theme-color: #ffffff
 
 
 ### Manga
-  - [پھانسا](olgami)
+  - [پھانسا](mangas/olgami)
