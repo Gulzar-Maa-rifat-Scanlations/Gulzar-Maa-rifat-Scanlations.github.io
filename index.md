@@ -26,3 +26,4 @@ theme-color: #ffffff
 
 ### Manga
   - [پھانسا](mangas/olgami)
+  - [توکیو غول](mangas/tokyo-ghoul)
