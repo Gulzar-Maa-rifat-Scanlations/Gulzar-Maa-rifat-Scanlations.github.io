@@ -17,9 +17,9 @@ theme-color: #ffffff
 # پھانسا
 
 ### Chapters
-  - [Chapter 1](olgami/chapter_1)
-  - [Chapter 2](olgami/chapter_2)
-  - [Chapter 3](olgami/chapter_3)
-  - [Chapter 4](olgami/chapter_4)
-  - [Chapter 5](olgami/chapter_5)
-  - [Chapter 6](olgami/chapter_6)
+  - [Chapter 1](chapter_1)
+  - [Chapter 2](chapter_2)
+  - [Chapter 3](chapter_3)
+  - [Chapter 4](chapter_4)
+  - [Chapter 5](chapter_5)
+  - [Chapter 6](chapter_6)
