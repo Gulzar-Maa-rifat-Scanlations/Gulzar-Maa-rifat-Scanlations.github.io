@@ -17,9 +17,9 @@ theme-color: #ffffff
 # توکیو غول
 
 ### Chapters
-  - [Chapter 1](tokyo-ghoul/chapter_1)
-  - [Chapter 2](tokyo-ghoul/chapter_2)
-  - [Chapter 3](tokyo-ghoul/chapter_3)
-  - [Chapter 4](tokyo-ghoul/chapter_4)
-  - [Chapter 5](tokyo-ghoul/chapter_5)
-  - [Chapter 6](tokyo-ghoul/chapter_6)
+  - [Chapter 1](chapter_1)
+  - [Chapter 2](chapter_2)
+  - [Chapter 3](chapter_3)
+  - [Chapter 4](chapter_4)
+  - [Chapter 5](chapter_5)
+  - [Chapter 6](chapter_6)
