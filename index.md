@@ -30,5 +30,6 @@ Our First Release!
 </h1>
 
 <br>
-
+<a href="mangas/tokyo-ghoul">
 <img src="mangas/tokyo-ghoul/Untitled63.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:50%;"/>
+</a>
