@@ -2,7 +2,7 @@
 title: توکیو غول
 author: Adeel Tariq
 output: html_document
-image: Untitled63.png
+image: /Untitled63.png
 description: Gulzar Maa'rifat is an Urdu scanlations group working to translation and type set various famous manhwas and mangas
 apple-touch-icon: /apple-touch-icon.png
 icon: /favicon.ico
