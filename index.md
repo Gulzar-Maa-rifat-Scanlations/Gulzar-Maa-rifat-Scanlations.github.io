@@ -24,6 +24,11 @@ theme-color: #ffffff
 <p align="center"><a href="https://discord.gg/NAfFNWHNwH">Join Our Discord</a></p>
 
 
-### Manga
-  - [پھانسا](mangas/olgami)
-  - [توکیو غول](mangas/tokyo-ghoul)
+<br>
+<h1 style="text-align: center;">
+Our First Release!
+</h1>
+
+<br>
+
+<img src="mangas/tokyo-ghoul/Untitled63.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:50%;"/>
