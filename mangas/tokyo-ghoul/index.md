@@ -64,7 +64,7 @@ theme-color: #ffffff
 <img src="Untitled103.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 
 <a href="../../">
-<h1 style="text-align: center;">
-توکیو غول
-</h1>
+<h3 style="text-align: center;">
+Home
+</h3>
 </a>
