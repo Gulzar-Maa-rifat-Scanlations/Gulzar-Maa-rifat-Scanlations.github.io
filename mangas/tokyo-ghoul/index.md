@@ -19,7 +19,7 @@ theme-color: #ffffff
 
 <br>
 
-<img src="Untitled1.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
+<img src="Untitled1.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled62.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled63.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled64.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
@@ -58,7 +58,7 @@ theme-color: #ffffff
 <img src="Untitled98.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled99.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled100.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
-<img src="Untitled101.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
+<img src="Untitled101.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled102.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled103.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 
