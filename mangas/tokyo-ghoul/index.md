@@ -45,7 +45,6 @@ theme-color: #ffffff
 <img src="Untitled84.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled85.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled86.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
-<img src="Untitled87.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled88.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled89.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled90.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
@@ -63,8 +62,7 @@ theme-color: #ffffff
 <img src="Untitled102.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 <img src="Untitled103.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;"/>
 
-<a href="../../">
+
 <h3 style="text-align: center;">
-Home
+  <a href="../../">Home</a>
 </h3>
-</a>
