@@ -13,9 +13,11 @@ theme-color: #ffffff
 ---
 
 <br>
-<p align="center">
-# توکیو غول
-</p>
+<h style="text-align: center;">
+توکیو غول
+</h>
 
-![](untitled1.png)
+<img src="Untitled1.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:50%;"/>
+<img src="Untitled62.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:50%;"/>
+![](Untitled1.png)
 ![](untitled62.png)
