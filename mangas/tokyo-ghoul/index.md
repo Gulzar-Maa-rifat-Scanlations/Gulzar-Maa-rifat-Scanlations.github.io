@@ -23,7 +23,6 @@ theme-color: #ffffff
 <img src="Untitled62.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled63.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled1.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
-<img src="Untitled64.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled65.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled66.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="Untitled67.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
