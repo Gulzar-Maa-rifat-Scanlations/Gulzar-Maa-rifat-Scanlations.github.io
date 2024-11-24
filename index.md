@@ -26,10 +26,20 @@ theme-color: #ffffff
 
 <br>
 <h1 style="text-align: center;">
-Our First Release!
+New Releases!
 </h1>
 
 <br>
-<a href="mangas/tokyo-ghoul">
-<img src="mangas/tokyo-ghoul/Untitled63.png" alt="Paris" style="display: block;margin-left: auto;margin-right: auto;width:50%;"/>
-</a>
+
+<div class="parent">
+
+ <a href="mangas/gokurakugai-1">
+  <img src="mangas/gokurakugai-1/0-cover.png" alt="two" style="display: block;"/>
+ </a>
+
+ <a href="mangas/tokyo-ghoul">
+  <img src="mangas/tokyo-ghoul/Untitled63.png" alt="one" style="display: block;"/>
+ </a>
+
+</div> 
+
