@@ -40,7 +40,7 @@ TEMPLATE
 def compress_png(file)
   compressed_file = file.sub(/\.png$/, '-fs8.png') # pngquant adds -fs8 by default
   system("pngquant --quality=65-80 --force --ext .png #{file}")
-  compressed_file
+  file
 end
 
 # Ask for user inputs
