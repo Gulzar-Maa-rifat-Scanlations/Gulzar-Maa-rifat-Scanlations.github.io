@@ -50,4 +50,4 @@ grid-row-gap: 0px;">
 
 <br>
 
-<p align="center">For Credits and Acknowledgements visit <a href="Credits-Corner/Arfa-Shaukat.png">here</a></p>
+<p align="center">For Credits and Acknowledgements visit <a href="Credits-Corner/Credits-Arfa-Shaukat.jpg">here</a></p>
