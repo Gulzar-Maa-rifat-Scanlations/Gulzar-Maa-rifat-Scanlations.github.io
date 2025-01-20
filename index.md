@@ -3,7 +3,7 @@ title: گلزار ِ معرفت
 author: Adeel Tariq
 output: html_document
 image: /logo.png
-description: Gulzar Maa'rifat is an Urdu scanlations group working to translation and type set various famous manhwas and mangas
+description: Gulzar Maa'rifat is an Urdu scanlations group working on translating and typesetting various famous manhwas and mangas
 apple-touch-icon: /apple-touch-icon.png
 icon: /favicon.ico
 manifest: /site.webmanifest
@@ -17,7 +17,7 @@ theme-color: #ffffff
 <h3 align="center">پھولے گی اس زباں میں بھی گلزار ِ معرفت</h3>
 <h3 align="center">یاں میں زمین ِ شعر میں یہ تخم بو گیا</h3>
 
-<p align="center">Gulzar Maa'rifat is an Urdu scanlations group working to translation and type set various famous manhwas and mangas. Check out our in-progress and completed projects <a href="#manga">here</a></p>
+<p align="center">Gulzar Maa'rifat is an Urdu scanlations group working to translate and type set various famous manhwas and mangas. Check out our in-progress and completed projects <a href="#manga">here</a></p>
 
 <p align="center">Interested? Want to help out with your contributions or time?</p>
 
@@ -50,4 +50,4 @@ grid-row-gap: 0px;">
 
 <br>
 
-<p align="center">For Credits and Acknowledgements visit <a href="#Credits-Corner">here</a></p>
+<p align="center">For Credits and Acknowledgements visit <a href="Credits-Corner/Arfa-Shaukat.png">here</a></p>
