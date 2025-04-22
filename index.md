@@ -41,10 +41,6 @@ grid-row-gap: 0px;">
   <img src="mangas/gokurakugai-1/0-cover.png" alt="two" style="display: block;margin-left:auto;margin-right:auto;"/>
  </a>
 
- <a href="mangas/tokyo-ghoul">
-  <img src="mangas/tokyo-ghoul/Untitled63.png" alt="one" style="display: block;margin-left:auto;margin-right:auto;"/>
- </a>
-
 </div> 
 
 
