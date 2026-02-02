@@ -20,8 +20,8 @@ theme-color: #ffffff
 <br>
 <img src="0-cover.png" alt="0-cover.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="1-page.png" alt="1-page.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
-<img src="pg003.png" alt="pg003.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
-<img src="pg004.png" alt="pg004.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
+<img src="pg003.png" style="display:block;width:
+<img src="pg004.png" style="display:block;width:
 <img src="pg005.png" alt="pg005.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="pg006.png" alt="pg006.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
 <img src="pg007.png" alt="pg007.png" style="display: block;margin-left: auto;margin-right: auto;width:100%;"/>
